@@ -1,0 +1,13 @@
+01) Criar um diretório
+02) iniciar o NPM
+03) acessar o diretório
+04) npm init
+05) npm i express -save
+06) npm i ejs --save
+07) npm i consign --save
+08) npm i body-parser --save  (middleware que popula a view com as variáveis transitadas)
+09) npm i express-validator
+10) criar config/server.js
+11) criar app.js na raíz do projeto
+12) criar diretório app
+13) criar árvore de diretórios com base no MVC (controller, models, views, routes, public/css, public/images, public/js)
